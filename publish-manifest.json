@@ -1,0 +1,56 @@
+{
+  "name": "HSD / HANS DESIGN personal release",
+  "version": "2026-09-12",
+  "status": "personal-public-release-prepared",
+  "releaseType": "static-site-package",
+  "source": "HANS DESIGN 个人网站-暖石米改版-20260911",
+  "entry": "index.html",
+  "defaultLanguage": "zh-CN",
+  "routes": [
+    "index.html",
+    "projects.html",
+    "studio.html",
+    "services.html",
+    "contact.html",
+    "privacy.html",
+    "404.html"
+  ],
+  "runtime": [
+    "app.js",
+    "styles.css",
+    "editorial.css",
+    "client.css",
+    "data/projects.js",
+    "data/stories.js",
+    "data/project-facts.js",
+    "modules/editorial.js",
+    "modules/fusion-interactions.js",
+    "modules/enquiry.js",
+    "assets/cases/index.json",
+    "assets/hero-light-court-4k.webp",
+    "assets/lossless/**",
+    "assets/brand/**",
+    "robots.txt"
+  ],
+  "packageDirectory": "release/hsd-personal-site-20260912",
+  "sitemapTemplate": "sitemap.template.xml",
+  "excluded": [
+    "assets/cases-hd/**",
+    "backups/**",
+    "docs/**",
+    "tests/**",
+    "validation/**",
+    "99_历史版本与过程归档/**"
+  ],
+  "publicReleaseGates": [
+    "本人确认项目图片、奖项和履历信息可以公开展示",
+    "域名已登记在本人名下并完成个人备案（如使用中国大陆服务器）",
+    "将 sitemap.template.xml 中的 YOUR-DOMAIN 替换为正式域名",
+    "绑定 HTTPS 并在备案通过后进行中国大陆网络验收"
+  ],
+  "notes": [
+    "这是已完成个人化改写和静态检查的发布候选包，不代表域名购买、备案或第三方平台部署已完成。",
+    "联系页为浏览器内复制流程，不会向网站服务器提交或保存内容。",
+    "当前站点没有分析、广告、Cookie 或远程追踪脚本。"
+  ]
+}

@@ -1,0 +1,99 @@
+/* Customer reading and enquiry layer. */
+.project-actions { display:flex; flex-wrap:wrap; align-items:center; gap:14px; padding-top:20px; margin-top:20px; border-top:1px solid var(--line); }
+.project-actions button,.project-actions a,.enquiry-form button { font:inherit; font-size:14px; min-height:44px; padding:10px 14px; border:1px solid var(--line); background:transparent; color:var(--ink); cursor:pointer; text-decoration:none; }
+.project-actions p { flex-basis:100%; font-size:13px; overflow-wrap:anywhere; margin:0; }
+.comparison-editorial-copy .reading-panel p { font-size:15px; line-height:1.85; }
+.reading-disclosure { font-size:12px; }
+.enquiry-page { max-width:1050px; margin:auto; padding:130px var(--page) 70px; }
+.enquiry-page h1 { font-size:clamp(30px,4vw,48px); line-height:1.4; }
+.enquiry-page>p { max-width:60ch; line-height:1.8; }
+.enquiry-context { border-left:2px solid var(--accent); padding-left:16px; }
+.enquiry-form { display:grid; grid-template-columns:1fr 1fr; gap:24px; margin:36px 0; }
+.enquiry-form label { display:grid; gap:10px; font-size:15px; }
+.enquiry-form input,.enquiry-form textarea { width:100%; padding:12px; border:1px solid var(--line); background:transparent; color:var(--ink); font:inherit; border-radius:0; }
+.enquiry-form textarea { min-height:140px; resize:vertical; }
+.enquiry-wide { grid-column:1/-1; }
+.enquiry-actions { display:flex; flex-wrap:wrap; gap:14px; }
+.enquiry-actions button:first-child { background:var(--accent); color:var(--paper); }
+.enquiry-note { font-size:13px; line-height:1.8; }
+.enquiry-result { white-space:pre-wrap; font-size:14px; line-height:1.8; padding:18px; border:1px solid var(--line); }
+@media(max-width:900px) {
+ .project-dialog .dialog-shell { display:flex; flex-direction:column; gap:20px; }
+ .project-dialog .dialog-copy { display:contents; }
+ .project-dialog .dialog-copy h2 { order:0; padding-right:25px; margin:0; }
+ .project-dialog .dialog-media { order:1; width:100%; }
+ .project-dialog [data-dialog-description] { order:2; margin:0; }
+ .project-dialog .dialog-note { order:3; margin:0; font-size:13px; }
+ .project-dialog .project-actions { order:4; width:100%; margin:0; }
+ .project-dialog .dialog-nav { order:5; width:100%; margin:0; }
+ .project-dialog .case-reading { order:6; width:100%; }
+ .project-dialog .dialog-index { display:none; }
+}
+@media(max-width:700px) {
+ .comparison-editorial-copy .reading-panel p { font-size:15px; }
+ .comparison-editorial-copy .reading-panel h3 { font-size:18px; }
+ body[data-page="studio"] .studio-founder-hero { display:flex; flex-direction:column; gap:22px; }
+ body[data-page="studio"] .studio-founder-copy { display:contents; }
+ .studio-founder-title-row { order:0; }
+ body[data-page="studio"] .studio-founder-hero>.studio-founder-portrait { order:1; width:220px; }
+ .studio-founder-perspective { order:2; margin:0; }
+ body[data-page="studio"] .studio-founder-lead { order:3; margin:0; font-size:15px; }
+ body[data-page="studio"] .studio-founder-copy .editorial-awards { order:4; margin:0; width:100%; }
+ body[data-page="studio"] .editorial-awards .studio-founder-recognition ul { font-size:14px; }
+ .enquiry-page { padding:110px 22px 40px; }
+ .enquiry-form { grid-template-columns:1fr; }
+}
+body[data-page="home"] .contact-actions { flex-wrap:wrap; }
+.contact-actions .enquiry-entry { flex-basis:100%; font-size:14px; color:var(--paper); }
+.project-facts { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin:18px 0; padding:18px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.project-facts dt { font-size:12px; color:var(--muted); }
+.project-facts dd { font-size:14px; margin:8px 0 0; }
+.service-practical h2 { font-size:clamp(26px,3vw,40px); line-height:1.45; }
+.practical-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:32px; margin:32px 0; }
+.practical-grid article { border-top:1px solid var(--line); padding-top:20px; }
+.practical-grid h3 { font-size:20px; }
+.practical-grid p { font-size:15px; line-height:1.9; }
+.enquiry-email { display:inline-block; border-bottom:1px solid var(--line); padding:8px 0; font-size:17px; }
+@media(max-width:900px) {
+ .project-facts { order:2; width:100%; margin:0; }
+ .practical-grid { grid-template-columns:1fr; gap:20px; }
+}
+
+/* Site-wide secondary notices, instructions and feedback. */
+.site-notice,
+.section-heading .section-note,
+.reading-disclosure,
+.reading-tools > span,
+.project-dialog .dialog-note,
+.project-actions [role="status"],
+.enquiry-note,
+[data-enquiry-status],
+body.client-view .archive-status,
+.archive-source-status,
+.card-status,
+[data-dialog-status],
+.studio-profile-note,
+.image-lightbox > p,
+.legal-page > header > p:not(.eyebrow) {
+  font-size: 11px;
+  line-height: 1.75;
+  opacity: .3;
+}
+/* Action guidance remains readable; provenance notes stay secondary. */
+.site-notice,.reading-tools > span,.enquiry-note,[data-enquiry-status],
+.project-actions [role="status"],body.client-view .archive-status,.image-lightbox > p {
+ font-size:13px; opacity:1; color:var(--ink); line-height:1.8;
+}
+.contact-section .site-notice { color:var(--paper); }
+.light-court-hero[data-fusion-hero] .hero-image-wrap::before {
+ background:radial-gradient(circle at var(--fusion-light-x) var(--fusion-light-y),rgba(242,243,240,.17) 0%,rgba(242,243,240,.075) 6%,transparent 17%),linear-gradient(116deg,transparent 39.5%,rgba(242,243,240,.085) 49%,transparent 58.5%);
+}
+.comparison-controls button,.comparison-controls > span,.comparison-controls em {color:var(--ink);border-color:var(--line);}
+.comparison-controls em {font-size:13px;}
+[hidden][data-reading] {display:none!important;}
+body[data-page="home"] .featured-grid.editorial-support-grid {grid-template-columns:repeat(3,minmax(0,1fr));}
+@media(max-width:900px){body[data-page="home"] .featured-grid.editorial-support-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:600px){body[data-page="home"] .featured-grid.editorial-support-grid{grid-template-columns:1fr;}}
+
+body[data-page="home"] .editorial-support-grid .project-card:nth-child(n) {padding-top:0;}
+body[data-page="home"] .editorial-support-grid .project-card:nth-child(n) .project-card-media {aspect-ratio:1.6;}
