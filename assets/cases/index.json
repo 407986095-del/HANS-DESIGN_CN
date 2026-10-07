@@ -1,0 +1,1437 @@
+{
+  "version": 3,
+  "source": "HSD案例最终包/02_现代审美重构版_版式清理后",
+  "projects": [
+    {
+      "slug": "aihua-education-hq",
+      "title": "Aihua Education HQ",
+      "category": "institutional",
+      "cover": "assets/lossless/6d3b50cd7321dbfe2cea.webp",
+      "images": [
+        "assets/lossless/6d3b50cd7321dbfe2cea.webp",
+        "assets/lossless/2c404f4dd4eecc6b0260.webp",
+        "assets/lossless/ff6aa0fd26b94cfdce9e.webp",
+        "assets/lossless/63a53dd2845904f6f213.webp",
+        "assets/lossless/59b044bee60a3cfd1078.webp"
+      ],
+      "imageCount": 5,
+      "sourceFolder": "aihua-education-hq",
+      "sourceImageCount": 5,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "armani-art-apartment-clubhouse",
+      "title": "Armani Art Apartment Clubhouse",
+      "category": "hospitality",
+      "cover": "assets/lossless/aa60b1115ddb18c177a2.webp",
+      "images": [
+        "assets/lossless/aa60b1115ddb18c177a2.webp",
+        "assets/lossless/e3ed29e111074b404be9.webp",
+        "assets/lossless/e2e6bc004f48db765a1a.webp",
+        "assets/lossless/06e99286668772fae3c4.webp",
+        "assets/lossless/64115fd88c7b5c4d8a0c.webp",
+        "assets/lossless/7943abcbf94a36060f1e.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "armani-art-apartment-clubhouse",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 6,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "bihai-building",
+      "title": "Bihai Building",
+      "category": "commercial",
+      "cover": "assets/lossless/ad31c2234dd5ca4eb83e.webp",
+      "images": [
+        "assets/lossless/ad31c2234dd5ca4eb83e.webp",
+        "assets/lossless/4d7aa398541ca788f59d.webp",
+        "assets/lossless/eb89e1ea2b0a2da93cc8.webp",
+        "assets/lossless/6c21c9117705e4de21d1.webp",
+        "assets/lossless/b57a9057b7043aa09f80.webp",
+        "assets/lossless/f590ccffa194dfcaeeea.webp",
+        "assets/lossless/dd55847ec03d662ffcb3.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "bihai-building",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 7,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "black-cow-villa",
+      "title": "Black Cow Villa",
+      "category": "residential",
+      "cover": "assets/lossless/a86607dd7023ce202b15.webp",
+      "images": [
+        "assets/lossless/a86607dd7023ce202b15.webp",
+        "assets/lossless/27e706137d236f0d17c5.webp",
+        "assets/lossless/797beef6c939b1c549ba.webp",
+        "assets/lossless/d348cc16652e31bc0374.webp",
+        "assets/lossless/2b91d8fb0338cd72966f.webp",
+        "assets/lossless/5e484e7d1f8bd10eebae.webp",
+        "assets/lossless/30342d477f0ef68c416b.webp",
+        "assets/lossless/089172e1f4d02e5dda85.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "black-cow-villa",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "camellia-forest-park",
+      "title": "Camellia Forest Park / Indoor Upgrade",
+      "category": "landscape",
+      "cover": "assets/lossless/924093320c873c085e6b.webp",
+      "images": [
+        "assets/lossless/924093320c873c085e6b.webp",
+        "assets/lossless/ef27a23d64ece1695ae7.webp",
+        "assets/lossless/114e0f18cd2ae726a798.webp",
+        "assets/lossless/d0ee84f29c720d7760d2.webp",
+        "assets/lossless/8634559e00195770230e.webp",
+        "assets/lossless/80aa9b08d0285c879047.webp",
+        "assets/lossless/28d06bda21e824cf3ea1.webp",
+        "assets/lossless/93b03571baf40a2f5fae.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "camellia-forest-park + camellia-indoor-upgrade",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 8,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "congdu-international-manor-villa",
+      "title": "Congdu International Manor Villa",
+      "category": "residential",
+      "cover": "assets/lossless/c892aa3357c69a2b3934.webp",
+      "images": [
+        "assets/lossless/c892aa3357c69a2b3934.webp",
+        "assets/lossless/b106b4c8c105d423f3df.webp",
+        "assets/lossless/5838a5f0180582581d5c.webp",
+        "assets/lossless/d78cf1c8a78dbd70df5a.webp",
+        "assets/lossless/fde3b7ce1fd5c4ff47c6.webp",
+        "assets/lossless/0ea0f72259110a757782.webp",
+        "assets/lossless/d73d965e70b9077dd2e8.webp",
+        "assets/lossless/b4fb1f5caebe5994da2f.webp",
+        "assets/lossless/f963941870428ec42019.webp",
+        "assets/lossless/56413cb5ed25dd67c97d.webp",
+        "assets/lossless/f6fd90ce3cae9cd42da8.webp",
+        "assets/lossless/54bac0c2cd3207fc3f13.webp",
+        "assets/lossless/680487453b1e1c5f36c0.webp",
+        "assets/lossless/33a988097d953007277e.webp",
+        "assets/lossless/48e4ba7b6c57ec970de4.webp",
+        "assets/lossless/3fc89adba00cea7ca0d3.webp",
+        "assets/lossless/cce873852d263255eccc.webp",
+        "assets/lossless/89e103eb548a3800d74c.webp",
+        "assets/lossless/5e1b9ff208fa131b39e1.webp"
+      ],
+      "imageCount": 19,
+      "sourceFolder": "congdu-international-manor-villa",
+      "sourceImageCount": 19,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "dongguan-palm-garden-villa",
+      "title": "Dongguan Palm Garden Villa",
+      "category": "residential",
+      "cover": "assets/lossless/2273a12d82bb2585476d.webp",
+      "images": [
+        "assets/lossless/2273a12d82bb2585476d.webp",
+        "assets/lossless/0a0a15d9eba253e96a63.webp",
+        "assets/lossless/f3d87415f2c86a8c31d3.webp",
+        "assets/lossless/57862c012398a4fdf707.webp",
+        "assets/lossless/aa4c3d5b50f4db3b5238.webp",
+        "assets/lossless/a5731765dc3582463723.webp",
+        "assets/lossless/cb7034b67172a1fe764c.webp",
+        "assets/lossless/6b54947734b42b95fb46.webp",
+        "assets/lossless/5ca01e050d6099089311.webp",
+        "assets/lossless/18e5bbcec3a6d87f2c36.webp",
+        "assets/lossless/667be46263ea5567ed04.webp",
+        "assets/lossless/119ca80839a0b8348998.webp"
+      ],
+      "imageCount": 12,
+      "sourceFolder": "dongguan-palm-garden-villa",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 12,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "east-tower-office",
+      "title": "East Tower Office",
+      "category": "workplace",
+      "cover": "assets/lossless/d983f25239f75db8efb4.webp",
+      "images": [
+        "assets/lossless/d983f25239f75db8efb4.webp",
+        "assets/lossless/3066063579f9b6d4bed6.webp",
+        "assets/lossless/c3dfed1d6d33240a546b.webp",
+        "assets/lossless/e64a41da3cbae6600b22.webp",
+        "assets/lossless/937d498c6e7c83fdb67e.webp",
+        "assets/lossless/0a16a9fb016572b13ca2.webp",
+        "assets/lossless/d948ddae10ca2a6cbc68.webp",
+        "assets/lossless/12ed5203b3e1a0b3a44e.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "east-tower-office",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 8,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "eko-46f-office",
+      "title": "EKO 46f Office",
+      "category": "workplace",
+      "cover": "assets/lossless/b8892ea6e9494aebae81.webp",
+      "images": [
+        "assets/lossless/b8892ea6e9494aebae81.webp",
+        "assets/lossless/87c321c4e02bfc3912a1.webp",
+        "assets/lossless/670230b47107300c4512.webp",
+        "assets/lossless/e163db83bed138e34f04.webp",
+        "assets/lossless/f8aa73ef9465daa3d0ca.webp",
+        "assets/lossless/73bee188d8ec871d420e.webp",
+        "assets/lossless/800446f822abe407d139.webp",
+        "assets/lossless/476dfb1c1b18a572bd07.webp",
+        "assets/lossless/6578f59c9aba7cdf099f.webp",
+        "assets/lossless/379987c89f0ed1a799e5.webp",
+        "assets/lossless/bd7796dde0e77e1801c4.webp",
+        "assets/lossless/3cfd7c20e8aa2cb70b14.webp",
+        "assets/lossless/9b86861db0bdd4975348.webp",
+        "assets/lossless/5ff9ed7c0c4c24836698.webp"
+      ],
+      "imageCount": 14,
+      "sourceFolder": "eko-46f-office",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 14,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "eko-cambodia-factory-architecture",
+      "title": "EKO Cambodia Factory Architecture",
+      "category": "workplace",
+      "cover": "assets/lossless/9453d7eb21e908628fc8.webp",
+      "images": [
+        "assets/lossless/9453d7eb21e908628fc8.webp",
+        "assets/lossless/7b2b82cee9d057019538.webp",
+        "assets/lossless/0016ebb87bd970bb9b30.webp",
+        "assets/lossless/36717ec56f690f54de35.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "eko-cambodia-factory-architecture",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "eko-headquarters-office",
+      "title": "EKO Headquarters Office",
+      "category": "workplace",
+      "cover": "assets/lossless/7152d727858e1623a0dc.webp",
+      "images": [
+        "assets/lossless/7152d727858e1623a0dc.webp",
+        "assets/lossless/230e26cce7223432f949.webp",
+        "assets/lossless/6caea3dccd62e4667539.webp",
+        "assets/lossless/b20b864e512220ae0324.webp",
+        "assets/lossless/1461300882552d801344.webp",
+        "assets/lossless/14a6bd2f213242a9545b.webp",
+        "assets/lossless/b26b7ebe70963c14551c.webp",
+        "assets/lossless/9f6e40944cd2b265b405.webp",
+        "assets/lossless/3d19202d510e38ef62bf.webp",
+        "assets/lossless/2768d7d4c37e6c903cbb.webp",
+        "assets/lossless/840005195a5d63035e28.webp",
+        "assets/lossless/c9f9227040d8553282ff.webp"
+      ],
+      "imageCount": 12,
+      "sourceFolder": "eko-headquarters-office",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 12,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "eko-jiangmen-factory-architecture",
+      "title": "EKO Jiangmen Factory Architecture",
+      "category": "workplace",
+      "cover": "assets/lossless/13dfad5aa9b28c34bd7d.webp",
+      "images": [
+        "assets/lossless/13dfad5aa9b28c34bd7d.webp",
+        "assets/lossless/c326c423c6f6413112fc.webp",
+        "assets/lossless/8df38f085861b477ee50.webp"
+      ],
+      "imageCount": 3,
+      "sourceFolder": "eko-jiangmen-factory-architecture",
+      "sourceImageCount": 3,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "eko-villa-clubhouse",
+      "title": "EKO Villa Clubhouse",
+      "category": "hospitality",
+      "cover": "assets/lossless/c061460675307639a1c3.webp",
+      "images": [
+        "assets/lossless/c061460675307639a1c3.webp",
+        "assets/lossless/c659801e066adc49674b.webp",
+        "assets/lossless/539bd40ea3184246676b.webp",
+        "assets/lossless/19fa0aa1e2de4cb601a4.webp",
+        "assets/lossless/05fbd339d28bf3f527c3.webp",
+        "assets/lossless/64898c5a4b7ec909b965.webp",
+        "assets/lossless/4013ef144f2a96ee12a7.webp",
+        "assets/lossless/d7440d57ba73bfaed367.webp",
+        "assets/lossless/c86472db1e2b65995ce2.webp",
+        "assets/lossless/fd4a204648d145e83bd3.webp",
+        "assets/lossless/79eb7853cba41e3b31c0.webp",
+        "assets/lossless/9dc78d7d8e6cb61fd31f.webp",
+        "assets/lossless/f4b37726f866d499a957.webp",
+        "assets/lossless/2f5a0f9339a76636ee8b.webp",
+        "assets/lossless/5e57408a0addfa0b0e11.webp",
+        "assets/lossless/f37cf48b8618581cc268.webp",
+        "assets/lossless/b1d89acd37c4835a5851.webp",
+        "assets/lossless/08f971f5aa8d7738cc62.webp"
+      ],
+      "imageCount": 18,
+      "sourceFolder": "eko-villa-clubhouse",
+      "sourceImageCount": 18,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "foshan-sofitel-hotel-suites",
+      "title": "Foshan Sofitel Hotel Suites",
+      "category": "hospitality",
+      "cover": "assets/lossless/cec867b435bce87905cd.webp",
+      "images": [
+        "assets/lossless/cec867b435bce87905cd.webp",
+        "assets/lossless/4503808e0d58f9befb66.webp",
+        "assets/lossless/e7641cbefa0c96054eb0.webp",
+        "assets/lossless/dca0416cf41c9e4d804c.webp",
+        "assets/lossless/b7ae54863ea860e82f56.webp",
+        "assets/lossless/0ee0064c586fc8d1dc3f.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "foshan-sofitel-hotel-suites",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "german-aeg-exhibition-hall",
+      "title": "German AEG Exhibition Hall",
+      "category": "workplace",
+      "cover": "assets/lossless/25e1bcb735d4664afc92.webp",
+      "images": [
+        "assets/lossless/25e1bcb735d4664afc92.webp",
+        "assets/lossless/e10049210f4a8926deca.webp",
+        "assets/lossless/de6a930bff2972896d27.webp",
+        "assets/lossless/d12378091948e6479a98.webp",
+        "assets/lossless/447a02d4bc9cb6cd67e5.webp",
+        "assets/lossless/dd7574890f21c0bbe51c.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "german-aeg-exhibition-hall",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "guangzhou-conrad-hotel-rooms",
+      "title": "Guangzhou Conrad Hotel Rooms",
+      "category": "hospitality",
+      "cover": "assets/lossless/efc6d043c266aaa9fc55.webp",
+      "images": [
+        "assets/lossless/efc6d043c266aaa9fc55.webp",
+        "assets/lossless/459fee03e788a46ede88.webp",
+        "assets/lossless/684f374d09bd47f59fc3.webp",
+        "assets/lossless/857f0f9ceaad2710ff98.webp",
+        "assets/lossless/21d299289692fce69a08.webp",
+        "assets/lossless/cb9e56eb77932ba4b94f.webp",
+        "assets/lossless/9cebbdc3490dc75a6c4e.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "guangzhou-conrad-hotel-rooms",
+      "sourceImageCount": 7,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "guangzhou-huayuan-office",
+      "title": "Guangzhou Huayuan Office",
+      "category": "workplace",
+      "cover": "assets/lossless/7ba1bbf95c7808102d3c.webp",
+      "images": [
+        "assets/lossless/7ba1bbf95c7808102d3c.webp",
+        "assets/lossless/5d7b395cd6463b8ad70e.webp",
+        "assets/lossless/5015171e1aa258fa2547.webp",
+        "assets/lossless/343a4299891f90b279ac.webp",
+        "assets/lossless/f59bc4e72fbe866da046.webp",
+        "assets/lossless/5f8e87d0cc5b1baaf025.webp",
+        "assets/lossless/84663d4cf6975016df2a.webp",
+        "assets/lossless/26af2805e252592c332f.webp",
+        "assets/lossless/68aaaf9ad17453ba0b01.webp",
+        "assets/lossless/3278faffada7802f0e92.webp",
+        "assets/lossless/863b524e8f7769cffb67.webp",
+        "assets/lossless/bf9b8450dde7dc8d7a99.webp"
+      ],
+      "imageCount": 12,
+      "sourceFolder": "guangzhou-huayuan-office",
+      "sourceImageCount": 12,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "guangzhou-luhu-mingxuan-villa-01",
+      "title": "Guangzhou Luhu Mingxuan Villa",
+      "category": "residential",
+      "cover": "assets/lossless/4876ef7b1a77f4b9177f.webp",
+      "images": [
+        "assets/lossless/4876ef7b1a77f4b9177f.webp",
+        "assets/lossless/76998cbe6ac873c03c1e.webp",
+        "assets/lossless/deb773c92c0391f8500c.webp",
+        "assets/lossless/56bad19d2cd161deb377.webp",
+        "assets/lossless/13d2ddff69c86c4c857a.webp",
+        "assets/lossless/01dc37b5399d8b61461a.webp",
+        "assets/lossless/ad759898e1d42870054c.webp",
+        "assets/lossless/5634b41d3274250a5d42.webp",
+        "assets/lossless/7986e6f749e805e322ab.webp",
+        "assets/lossless/c95b33063689949ff209.webp"
+      ],
+      "imageCount": 10,
+      "sourceFolder": "guangzhou-luhu-mingxuan-villa-01",
+      "sourceImageCount": 10,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "guangzhou-nansha-yacht-club",
+      "title": "Guangzhou Nansha Yacht Club",
+      "category": "landscape",
+      "cover": "assets/lossless/5216ff2687dcd9a84a04.webp",
+      "images": [
+        "assets/lossless/5216ff2687dcd9a84a04.webp",
+        "assets/lossless/7eb953966fc7b69c1556.webp",
+        "assets/lossless/6a824375f8e10edf0a38.webp",
+        "assets/lossless/bd536180f3546e2b6bf1.webp",
+        "assets/lossless/cb6f57a9a22955650cbc.webp",
+        "assets/lossless/2d6d0d6bdd6d9baddbd1.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "guangzhou-nansha-yacht-club",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "guangzhou-private-residence-2021",
+      "title": "Guangzhou Private Residence",
+      "category": "residential",
+      "cover": "assets/lossless/4c6336b0a4fdba7e3329.webp",
+      "images": [
+        "assets/lossless/4c6336b0a4fdba7e3329.webp",
+        "assets/lossless/b6a5e462f3039b9d7654.webp",
+        "assets/lossless/f8e0808e92c632fc4407.webp",
+        "assets/lossless/be11979b948c5734009d.webp",
+        "assets/lossless/1556a50db04c07877c31.webp",
+        "assets/lossless/e8203296ef62fc4f99bb.webp",
+        "assets/lossless/1dfd8e609648587c6f32.webp",
+        "assets/lossless/346d5b29132b0cbc6ed3.webp",
+        "assets/lossless/08fbe0892402f5a1e7dd.webp",
+        "assets/lossless/8d32889a2aa50912d563.webp"
+      ],
+      "imageCount": 10,
+      "sourceFolder": "guangzhou-private-residence-2021",
+      "sourceImageCount": 10,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "haizhu-1918-industrial-park",
+      "title": "Haizhu 1918 Industrial Park",
+      "category": "landscape",
+      "cover": "assets/lossless/c0778f38e95c0fdfba30.webp",
+      "images": [
+        "assets/lossless/c0778f38e95c0fdfba30.webp",
+        "assets/lossless/2eab7f116ea4f6400c71.webp",
+        "assets/lossless/65b4f99e237e0399a09b.webp"
+      ],
+      "imageCount": 3,
+      "sourceFolder": "haizhu-1918-industrial-park",
+      "sourceImageCount": 3,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "hong-kong-villa",
+      "title": "Hong Kong Villa",
+      "category": "residential",
+      "cover": "assets/lossless/9001ca59865bf2609eee.webp",
+      "images": [
+        "assets/lossless/9001ca59865bf2609eee.webp",
+        "assets/lossless/3fe44ea3a646d9c2011c.webp",
+        "assets/lossless/9b8355ea86790b80350d.webp",
+        "assets/lossless/1e762ba511ca9fa68e62.webp",
+        "assets/lossless/1c1442e4e308a12ebf3e.webp",
+        "assets/lossless/0829a87408608c378657.webp",
+        "assets/lossless/b56f9e75756a29253eb9.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "hong-kong-villa",
+      "sourceImageCount": 7,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "hubin-hotel",
+      "title": "Hubin Hotel",
+      "category": "hospitality",
+      "cover": "assets/lossless/d4d446979029dd460d9c.webp",
+      "images": [
+        "assets/lossless/d4d446979029dd460d9c.webp",
+        "assets/lossless/06fb78957c374315e964.webp",
+        "assets/lossless/53e2c2c537330708ac1b.webp",
+        "assets/lossless/381c45305b00259b2556.webp",
+        "assets/lossless/9c4453826109f192db4e.webp",
+        "assets/lossless/0181ae7c39051b3bc876.webp",
+        "assets/lossless/833930617fd9d3db22c5.webp",
+        "assets/lossless/cdd44384323f4858cd67.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "hubin-hotel",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "zhongshan-daxin-medical-center",
+      "title": "Zhongshan Daxin Medical Center",
+      "category": "institutional",
+      "cover": "assets/lossless/f53f0beef113cb5c8ca0.webp",
+      "images": [
+        "assets/lossless/f53f0beef113cb5c8ca0.webp",
+        "assets/lossless/be86bfd790c8a6e48d8a.webp",
+        "assets/lossless/d32117afb04c93a0f0af.webp",
+        "assets/lossless/be4d2e2536d0b8669df4.webp",
+        "assets/lossless/4f9f65f5d8abd7d06a4f.webp",
+        "assets/lossless/59e926eb4b12cf9259b6.webp",
+        "assets/lossless/2d765a2c7c7b3ea55ce6.webp",
+        "assets/lossless/4831af103442c008ad5e.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "huidong-medical-center",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "longyuehang-office",
+      "title": "Longyuehang Office",
+      "category": "workplace",
+      "cover": "assets/lossless/3bc14dfae29cfeb1c12a.webp",
+      "images": [
+        "assets/lossless/3bc14dfae29cfeb1c12a.webp",
+        "assets/lossless/81c7f9693bcb67d426bc.webp",
+        "assets/lossless/18870494c025394abf44.webp",
+        "assets/lossless/49289b9b6735c06b0be6.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "longyuehang-office",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "mj-physical-examination-center",
+      "title": "Mj Physical Examination Center",
+      "category": "institutional",
+      "cover": "assets/lossless/a66f12147cccff153c41.webp",
+      "images": [
+        "assets/lossless/a66f12147cccff153c41.webp",
+        "assets/lossless/e9336db7a9b5a614ffec.webp",
+        "assets/lossless/e54a42abe121edb80ffd.webp",
+        "assets/lossless/472311b759f4c214290a.webp",
+        "assets/lossless/d278fc99eed01f1782d9.webp"
+      ],
+      "imageCount": 5,
+      "sourceFolder": "mj-physical-examination-center",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 5,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "nanxi-river-yantou",
+      "title": "Nanxi River Yantou",
+      "category": "landscape",
+      "cover": "assets/lossless/4ed47fe3eec4724f8eef.webp",
+      "images": [
+        "assets/lossless/4ed47fe3eec4724f8eef.webp",
+        "assets/lossless/aa925dde19c2f93fc6f5.webp",
+        "assets/lossless/bd46e7f49505908d07f9.webp",
+        "assets/lossless/d7571884319b11463c1e.webp",
+        "assets/lossless/8340bd34d614cbcef302.webp",
+        "assets/lossless/a99333647287974f428e.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "nanxi-river-yantou",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "pazhou-no1-detached-villa",
+      "title": "Pazhou No.1 Detached Villa F",
+      "category": "residential",
+      "cover": "assets/lossless/aaaf98485ba7ce64bbe8.webp",
+      "images": [
+        "assets/lossless/aaaf98485ba7ce64bbe8.webp",
+        "assets/lossless/c6d4befe6706d4815b5d.webp"
+      ],
+      "imageCount": 2,
+      "sourceFolder": "pazhou-no1-detached-villa",
+      "sourceImageCount": 2,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "pazhou-no1-villa-02",
+      "title": "Pazhou No.1 Detached Villa B",
+      "category": "residential",
+      "cover": "assets/lossless/805d3e71f0f7674f2c5e.webp",
+      "images": [
+        "assets/lossless/805d3e71f0f7674f2c5e.webp",
+        "assets/lossless/12c808a1eada2372a313.webp",
+        "assets/lossless/096bb49194f581ce30c7.webp",
+        "assets/lossless/cc1eb1b33bd660ce2c89.webp",
+        "assets/lossless/f2f338fc7cdc225ba9ac.webp",
+        "assets/lossless/ace455ed36b8b1026aec.webp",
+        "assets/lossless/1a964bb749287af3fbcb.webp",
+        "assets/lossless/6fc1dec9d7ab422d6b42.webp",
+        "assets/lossless/214348b81991d7727d9a.webp"
+      ],
+      "imageCount": 9,
+      "sourceFolder": "pazhou-no1-villa-02",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 9,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "qilongshan-tourist-resort",
+      "title": "Qilongshan Tourist Resort",
+      "category": "landscape",
+      "cover": "assets/lossless/a6c3c254ded8a613e222.webp",
+      "images": [
+        "assets/lossless/a6c3c254ded8a613e222.webp",
+        "assets/lossless/4beb019330afe74a08d2.webp",
+        "assets/lossless/391f1ba9edc67a3ae4a7.webp",
+        "assets/lossless/bea9be61c3beebbd66d1.webp",
+        "assets/lossless/06fe4200649fbddfb5b9.webp",
+        "assets/lossless/0a309db897a438561c83.webp",
+        "assets/lossless/4907703a467eaf23bc04.webp",
+        "assets/lossless/ccdb8e279f399cb29e76.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "qilongshan-tourist-resort",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "qingxi-villa",
+      "title": "Qingxi Villa",
+      "category": "residential",
+      "cover": "assets/lossless/53341c435fcbf7d0a95e.webp",
+      "images": [
+        "assets/lossless/53341c435fcbf7d0a95e.webp",
+        "assets/lossless/d5947827e4a8d5a0a29c.webp",
+        "assets/lossless/0c1f08eb1e82e4732227.webp",
+        "assets/lossless/97d6c4a84faf97059db1.webp",
+        "assets/lossless/d68e9fd345dd9dbf1daa.webp",
+        "assets/lossless/18965cff4d4a7bf7ad57.webp",
+        "assets/lossless/4f5bfb69145c8b07d971.webp",
+        "assets/lossless/f1f8041cd4606ddf4ba8.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "qingxi-villa",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "sanlitun-intercontinental-hotel-lobby",
+      "title": "Sanlitun InterContinental Hotel Lobby & Guest Rooms",
+      "category": "hospitality",
+      "cover": "assets/lossless/3a0291cba55fccc1a563.webp",
+      "images": [
+        "assets/lossless/3a0291cba55fccc1a563.webp",
+        "assets/lossless/0d5a450bc4a3f647c2e1.webp",
+        "assets/lossless/df66170353f22e08ae67.webp",
+        "assets/lossless/bcf403f4f8a7c04e7901.webp",
+        "assets/lossless/12af4c8da27568dc884d.webp",
+        "assets/lossless/57583d5b74bf2fe4606b.webp",
+        "assets/lossless/72fe9855e652c3173c4a.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "sanlitun-intercontinental-hotel-lobby",
+      "sourceImageCount": 7,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shanghai-intercontinental-hotel-banquet",
+      "title": "Shanghai Intercontinental Hotel Banquet",
+      "category": "hospitality",
+      "cover": "assets/lossless/4aad38ba7c1fecfe1d37.webp",
+      "images": [
+        "assets/lossless/4aad38ba7c1fecfe1d37.webp",
+        "assets/lossless/cbacc79a538a2e61d9bf.webp",
+        "assets/lossless/b52c4d0b4c5367cab3ba.webp",
+        "assets/lossless/64333e07a9d6caed3220.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "shanghai-intercontinental-hotel-banquet",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shenzhen-china-resources-show-flat",
+      "title": "Shenzhen China Resources Show Flat",
+      "category": "residential",
+      "cover": "assets/lossless/2359372d1dbc59e56803.webp",
+      "images": [
+        "assets/lossless/2359372d1dbc59e56803.webp",
+        "assets/lossless/4d3c08a61289704d0523.webp",
+        "assets/lossless/9097751e2e4c9737e790.webp",
+        "assets/lossless/8cc52a67cbb7dcf08c48.webp",
+        "assets/lossless/8b3edbc6cc241dab9972.webp",
+        "assets/lossless/517e18ed29501f7adfb9.webp",
+        "assets/lossless/adcc66188c0eb256f3d5.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "shenzhen-china-resources-show-flat",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 7,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shenzhen-hyatt-hotel-lobby",
+      "title": "Shenzhen Hyatt Hotel Lobby",
+      "category": "hospitality",
+      "cover": "assets/lossless/f9b48b9dc4ab93b1b4d8.webp",
+      "images": [
+        "assets/lossless/f9b48b9dc4ab93b1b4d8.webp",
+        "assets/lossless/910e2d381dd1b1c22d19.webp",
+        "assets/lossless/374d6c20c9ea8e5d3c6c.webp",
+        "assets/lossless/318ecf2975ce7b77b0d9.webp",
+        "assets/lossless/b635fe85f32321e7a374.webp",
+        "assets/lossless/94ebe5e93af72924f973.webp",
+        "assets/lossless/73861f1d6de2ac7187a6.webp",
+        "assets/lossless/4d18263795b60be83857.webp",
+        "assets/lossless/d7d67d3707c6c516d27f.webp"
+      ],
+      "imageCount": 9,
+      "sourceFolder": "shenzhen-hyatt-hotel-lobby",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 9,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shenzhen-nanshan-marriott-hotel",
+      "title": "Shenzhen Nanshan Marriott Hotel",
+      "category": "hospitality",
+      "cover": "assets/lossless/f5a7fd9bca077fa8e90d.webp",
+      "images": [
+        "assets/lossless/f5a7fd9bca077fa8e90d.webp",
+        "assets/lossless/90817954b158359a0ebd.webp",
+        "assets/lossless/3808f119814b843c113d.webp",
+        "assets/lossless/75d1b9228d2d660ab6b6.webp",
+        "assets/lossless/c0e650d7d114dd241427.webp",
+        "assets/lossless/585b2bffe662f2b6637b.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "shenzhen-nanshan-marriott-hotel-dining",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shenzhen-qiaocheng-no1-villa-01",
+      "title": "Shenzhen Qiaocheng No.1 Flat Residence",
+      "category": "residential",
+      "cover": "assets/lossless/806dd15db7fba8c0bea7.webp",
+      "images": [
+        "assets/lossless/806dd15db7fba8c0bea7.webp",
+        "assets/lossless/7bfc4fcf4111eccc2134.webp",
+        "assets/lossless/264beefdece24448e5d5.webp",
+        "assets/lossless/3e11fc1b3ec2ea9342e5.webp",
+        "assets/lossless/6d43ff81ceaf8a5f2d46.webp",
+        "assets/lossless/abca854737556bdf505f.webp",
+        "assets/lossless/d0e3c1d7c9c76f9f9629.webp",
+        "assets/lossless/d78d1d8326725840ddf8.webp"
+      ],
+      "imageCount": 8,
+      "sourceFolder": "shenzhen-qiaocheng-no1-villa-01",
+      "sourceImageCount": 8,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shenzhen-shajing-jiaotang-garden-1602",
+      "title": "Shenzhen Shajing Jiaotang Garden",
+      "category": "residential",
+      "cover": "assets/lossless/fa39a043cc4f5cf7444a.webp",
+      "images": [
+        "assets/lossless/fa39a043cc4f5cf7444a.webp",
+        "assets/lossless/2beb59526f9a5108bd85.webp",
+        "assets/lossless/1951e5945886beb9d774.webp",
+        "assets/lossless/eccaf0fffcfaf3fb6a3a.webp",
+        "assets/lossless/027e285fcd505e4cbfe7.webp",
+        "assets/lossless/54a96178beac8a5f8e44.webp",
+        "assets/lossless/3d9ef57920da34e11b9a.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "shenzhen-shajing-jiaotang-garden-1602",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 7,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "shunde-liang-villa",
+      "title": "Shunde Liang Villa",
+      "category": "residential",
+      "cover": "assets/lossless/11d670fa3c8f5096be8c.webp",
+      "images": [
+        "assets/lossless/11d670fa3c8f5096be8c.webp",
+        "assets/lossless/bf85bd2d2fce103d4345.webp",
+        "assets/lossless/824a5ad89bdcd86ad18f.webp",
+        "assets/lossless/5b71193d1dbc22d3e805.webp",
+        "assets/lossless/7500992d7311ad753a4b.webp",
+        "assets/lossless/70669892917efbfb518d.webp",
+        "assets/lossless/29262a21c80823eb9b7e.webp",
+        "assets/lossless/f9499be9cc5b2c0acf03.webp",
+        "assets/lossless/e2d9131372faa3fc66f7.webp",
+        "assets/lossless/90d90a52e738a1b29a2b.webp",
+        "assets/lossless/f7282652946f07f61eb6.webp",
+        "assets/lossless/586cebc4a393366b2f18.webp",
+        "assets/lossless/7a58e7e12777bb6cd80f.webp",
+        "assets/lossless/79a49fff57aa267e19ba.webp",
+        "assets/lossless/4fee2f5279a54257c68e.webp"
+      ],
+      "imageCount": 15,
+      "sourceFolder": "shunde-liang-villa",
+      "sourceImageCount": 15,
+      "sourceImageNote": "顺德梁宅方案效果图，不是交付后的现场照片。",
+      "sourceImageNoteEn": "Shunde Liang design renderings, not photographs of the completed residence.",
+      "displayVariant": "source-images"
+    },
+    {
+      "slug": "taiguhui-office",
+      "title": "Taiguhui Office",
+      "category": "workplace",
+      "cover": "assets/lossless/7e6d664d418cd42c065d.webp",
+      "images": [
+        "assets/lossless/7e6d664d418cd42c065d.webp",
+        "assets/lossless/9309328a4cdf5c7e98fb.webp",
+        "assets/lossless/f640f01ed5b2e5d6ec33.webp",
+        "assets/lossless/e03235d282db0009727e.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "taiguhui-office",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "taohua-spring-art-town",
+      "title": "Taohua Spring Art Town",
+      "category": "landscape",
+      "cover": "assets/lossless/0e934820b539b150639b.webp",
+      "images": [
+        "assets/lossless/0e934820b539b150639b.webp",
+        "assets/lossless/7fd8816873548a66150e.webp",
+        "assets/lossless/82493601ccc9f9550eca.webp",
+        "assets/lossless/f82bdf2ae135efd8c3c9.webp",
+        "assets/lossless/e0e985aa4bc04870f7a2.webp",
+        "assets/lossless/347331d6c3b2bd1d01a7.webp",
+        "assets/lossless/0f1117361d371b69116c.webp",
+        "assets/lossless/dc359c811233063cb1f9.webp",
+        "assets/lossless/657993779e1d955ca0dc.webp",
+        "assets/lossless/97b47d2b3dc557c8b857.webp",
+        "assets/lossless/ab23f655f5835a064b4b.webp"
+      ],
+      "imageCount": 11,
+      "sourceFolder": "taohua-spring-art-town",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 11,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "tiande-plaza-42f",
+      "title": "Tiande Plaza",
+      "category": "commercial",
+      "cover": "assets/lossless/679d47bee9b4b12a719d.webp",
+      "images": [
+        "assets/lossless/679d47bee9b4b12a719d.webp",
+        "assets/lossless/c832bf164ce84f0a7171.webp",
+        "assets/lossless/2ba31edb5d8ff522aca8.webp",
+        "assets/lossless/1c6060661da08bcfb86b.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "tiande-plaza-42f",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "tianmu-lake-wei-hotel-rooms",
+      "title": "Tianmu Lake Wei Hotel Rooms",
+      "category": "hospitality",
+      "cover": "assets/lossless/a858ac63dc11dfbf8175.webp",
+      "images": [
+        "assets/lossless/a858ac63dc11dfbf8175.webp",
+        "assets/lossless/914da55b64c1e5df5586.webp",
+        "assets/lossless/29bc404d8edfadba957a.webp",
+        "assets/lossless/7ef0b02fad1aed7b1031.webp"
+      ],
+      "imageCount": 4,
+      "sourceFolder": "tianmu-lake-wei-hotel-rooms",
+      "sourceImageCount": 4,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "trumpchi-ground-floor",
+      "title": "Trumpchi Ground Floor",
+      "category": "commercial",
+      "cover": "assets/lossless/bf8846d891796c307aef.webp",
+      "images": [
+        "assets/lossless/bf8846d891796c307aef.webp",
+        "assets/lossless/d99ecc542ccdd6c1ff67.webp",
+        "assets/lossless/ac80667ab767b94577b5.webp",
+        "assets/lossless/e2a19af16bbe3d8ff8b7.webp",
+        "assets/lossless/473a8d4de1d9dd8af5d6.webp",
+        "assets/lossless/31e4986da6a97988ed7e.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "trumpchi-ground-floor",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "trumpchi-special-store",
+      "title": "Trumpchi Special Store",
+      "category": "commercial",
+      "cover": "assets/lossless/041a21c830d2edbad35a.webp",
+      "images": [
+        "assets/lossless/041a21c830d2edbad35a.webp",
+        "assets/lossless/cd177a841b4ac557cdd4.webp",
+        "assets/lossless/64be0c5a903c857f0504.webp",
+        "assets/lossless/e4b6987a0e1586366234.webp",
+        "assets/lossless/6b97a532cb277dbab1db.webp",
+        "assets/lossless/1c585d5927917bb926fb.webp",
+        "assets/lossless/9d831944f902d630b43a.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "trumpchi-special-store",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 7,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "xiamen-luxury-collection-hotel-restaurant",
+      "title": "Xiamen Luxury Collection Hotel Restaurant",
+      "category": "hospitality",
+      "cover": "assets/lossless/de0f9056bb8822100e9f.webp",
+      "images": [
+        "assets/lossless/de0f9056bb8822100e9f.webp",
+        "assets/lossless/9aa27a0f3685c6bcd8a3.webp",
+        "assets/lossless/85e07098750a67667d88.webp",
+        "assets/lossless/c731d9e5a9bd1248d832.webp",
+        "assets/lossless/50f8d1686d4096685114.webp",
+        "assets/lossless/59db429c340b0b63ace1.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "xiamen-luxury-collection-hotel-restaurant",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 6,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "xian-hualuxe-intercontinental-hotel",
+      "title": "Xian Hualuxe Intercontinental Hotel",
+      "category": "hospitality",
+      "cover": "assets/lossless/cf54fc76ecbb8c24589f.webp",
+      "images": [
+        "assets/lossless/cf54fc76ecbb8c24589f.webp",
+        "assets/lossless/0d48cbba2efd4c4ff6bc.webp",
+        "assets/lossless/bf207fb22afe43a06d77.webp",
+        "assets/lossless/8b73303bcfe4162d2b56.webp",
+        "assets/lossless/530f5cbe70bdd32ee8fe.webp",
+        "assets/lossless/d77ae1f842983ec8f431.webp"
+      ],
+      "imageCount": 6,
+      "sourceFolder": "xian-hualuxe-intercontinental-hotel",
+      "sourceImageCount": 6,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "xinghewan-huixin-garden-xx",
+      "title": "Xinghewan Huixin Garden",
+      "category": "residential",
+      "cover": "assets/lossless/dfefe406e1224c0417f6.webp",
+      "images": [
+        "assets/lossless/dfefe406e1224c0417f6.webp",
+        "assets/lossless/80d70fa0699480180162.webp",
+        "assets/lossless/67f80e03c3b2de9fda33.webp",
+        "assets/lossless/37fde9648f0968a7700c.webp",
+        "assets/lossless/2388c42ca5b817a3e4df.webp",
+        "assets/lossless/bdd58fe5fa2149c19b4c.webp",
+        "assets/lossless/916b4cdecee140550a31.webp",
+        "assets/lossless/0e0fe04d7fa7a2026fae.webp",
+        "assets/lossless/cd9fd8ee16f00af39a84.webp"
+      ],
+      "imageCount": 9,
+      "sourceFolder": "xinghewan-huixin-garden-xx",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 9,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "zhonglv-jiulonghu-villa",
+      "title": "Zhonglv Jiulonghu Villa",
+      "category": "residential",
+      "cover": "assets/lossless/05c79672ede7a5897d16.webp",
+      "images": [
+        "assets/lossless/05c79672ede7a5897d16.webp",
+        "assets/lossless/a7bcb52281a0cbbb01f7.webp",
+        "assets/lossless/a7180742151ab2d51977.webp",
+        "assets/lossless/d122e1320ddb1deed8c1.webp",
+        "assets/lossless/2e6ba2a90f8476612ee1.webp",
+        "assets/lossless/8c932274b5c11b2299fd.webp",
+        "assets/lossless/1bece162072daecd3f16.webp",
+        "assets/lossless/7d304f8819ef7b257cc0.webp",
+        "assets/lossless/b3727e3c2522be1ee16c.webp",
+        "assets/lossless/d3500613966d74681375.webp",
+        "assets/lossless/8a868c52e589906b92bf.webp"
+      ],
+      "imageCount": 11,
+      "sourceFolder": "zhonglv-jiulonghu-villa",
+      "sourceImageCount": 11,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "zhonglv-rose-lake-detached-villa",
+      "title": "Zhonglv Rose Lake Detached Villa",
+      "category": "residential",
+      "cover": "assets/lossless/973322771e617b6aaa14.webp",
+      "images": [
+        "assets/lossless/973322771e617b6aaa14.webp",
+        "assets/lossless/0f53b183d98744442b2e.webp",
+        "assets/lossless/77a71e5df50710305559.webp",
+        "assets/lossless/73e4453bf1266b5fbf2c.webp",
+        "assets/lossless/d43b0e24207a30ee788b.webp",
+        "assets/lossless/6e6d17ab88eb6531fec0.webp",
+        "assets/lossless/52612e5071cc795e4fa0.webp"
+      ],
+      "imageCount": 7,
+      "sourceFolder": "zhonglv-rose-lake-detached-villa",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 7,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "zhuhai-baikang-ningqiaowan-medical-education",
+      "title": "Zhuhai Baikang Ningqiaowan Medical Education",
+      "category": "institutional",
+      "cover": "assets/lossless/d1232c4606da291b1f1c.webp",
+      "images": [
+        "assets/lossless/d1232c4606da291b1f1c.webp",
+        "assets/lossless/cc13c7c59773a259ab5a.webp",
+        "assets/lossless/056c7333251428ad1d4a.webp",
+        "assets/lossless/d0d3282f9e713af3127e.webp",
+        "assets/lossless/4f8e8eacf912bd9fd040.webp"
+      ],
+      "imageCount": 5,
+      "sourceFolder": "zhuhai-baikang-ningqiaowan-medical-education",
+      "displayVariant": "source-images",
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "sourceImageCount": 5,
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    },
+    {
+      "slug": "zhuhai-intercontinental-hotel-lobby",
+      "title": "Zhuhai Intercontinental Hotel Lobby",
+      "category": "hospitality",
+      "cover": "assets/lossless/43a00629263b4d84631c.webp",
+      "images": [
+        "assets/lossless/43a00629263b4d84631c.webp",
+        "assets/lossless/f7dd533e350289839d20.webp",
+        "assets/lossless/fe61aeb7ac8aebfbc890.webp",
+        "assets/lossless/132fe838aa0ed6cc0f5a.webp",
+        "assets/lossless/04295f41fa7eac6c4319.webp"
+      ],
+      "imageCount": 5,
+      "sourceFolder": "zhuhai-intercontinental-hotel-lobby",
+      "sourceImageCount": 5,
+      "sourceImageNote": "HSD 案例档案图片；项目归属与图像类型已由 HSD 逐张核验。",
+      "sourceImageNoteEn": "HSD case archive images; project attribution and image types have been verified image by image by HSD.",
+      "displayVariant": "source-images",
+      "ownerVerification": {
+        "confirmedBy": "HSD principal",
+        "confirmedOn": "2026-10-07",
+        "projectFacts": "passed",
+        "imageByImage": "passed"
+      }
+    }
+  ]
+}
